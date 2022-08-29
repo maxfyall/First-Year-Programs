@@ -1,0 +1,10 @@
+This is a 2D array that was written to a file:
+12
+234
+9
+1
+121
+21
+13
+4
+19

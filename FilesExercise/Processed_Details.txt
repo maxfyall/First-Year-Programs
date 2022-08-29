@@ -1,0 +1,7 @@
+Proceesed Data from details.txt:
+Bush, Mildred Final Score is 57.0
+Snooks, Fred Final Score is 43.0
+Callar, Morvern Final Score is 61.0
+Powell, Colin Final Score is 68.0
+Blair, Tony Final Score is 46.0
+Gregor, Peter Final Score is 99.0

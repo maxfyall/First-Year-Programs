@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author Max
+ *
+ */
+module Vehicles{
+	
+}
